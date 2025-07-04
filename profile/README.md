@@ -32,8 +32,8 @@ Wise Care 365 Pro is a comprehensive system optimization tool designed to improv
 
 ## 🖼 Preview
 
-![screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStl3PV07UVoi4M7dMxrGoCW6VWxPIv8TkaKw&s)  
-![screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStug8rom2NED29YrQQHMMI1SI8GDx30l7SAg&s)
+![screenshot](https://cdn.soft112.com/wise-care-365-free/00/00/0E/ON/00000EON64/pad_screenshot.png)  
+
 
 ---
 
